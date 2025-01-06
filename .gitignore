@@ -1,0 +1,8 @@
+.vs/
+out/
+cbuild/
+*.bin
+*.sublime*
+*_dump
+*.exe
+*.obj
